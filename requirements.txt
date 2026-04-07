@@ -1,0 +1,5 @@
+streamlit
+plotly
+pandas
+streamlit-authenticator==0.3.2
+st-gsheets-connection
