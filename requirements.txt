@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+streamlit-authenticator==0.3.2
+pyyaml
